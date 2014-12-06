@@ -23,6 +23,7 @@ def main(argv)
         ftp.get(f)
         printf "done\n"
       }
+      break
     }
   end
 end
